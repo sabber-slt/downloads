@@ -1,4 +1,4 @@
-# ChatGPT Code Review Recommendations
+# Review Recommendations
 
 ## DRAGON-VPS-MANAGER/Modulos/open.py
 
